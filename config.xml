@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>蘋果介紹</name>
+  <description>
+      null
+  </description>
+  <author href="https://www.nfu.edu.tw/zh/" email="coco772349@gmail.com">
+      李昕瑜
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="1/19.png" />
+  </platform>
+</widget>
